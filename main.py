@@ -1,0 +1,2 @@
+nome ="Israel"
+print(nome)
